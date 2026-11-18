@@ -1,0 +1,11 @@
+rank,player_name,main_team_name,adjusted_score,pressure_economy,baseline_economy,economy_improvement,pressure_wickets,wickets_above_expected,pressure_balls,pressure_matches,format_coverage,ci_lower,ci_upper
+1,Sufiyan Muqeem,Pakistan,87.8564,5.8721,5.9191,0.0470,38,13.7516,469,25,Both,4.9002,6.1491
+2,Ahmed Daniyal,Pakistan A,85.8416,5.2597,5.0175,-0.2422,9,-0.4269,154,8,Both,3.6191,6.4109
+3,Arafat Minhas,Pakistan A,78.3367,4.9268,5.0526,0.1258,7,1.3883,123,8,Both,4.4357,6.2487
+4,Ashton Agar,Australia,77.1690,4.8806,5.0417,0.1611,4,-2.6631,134,6,T20I Only,3.3347,5.3090
+5,Mosaddek Hossain,Bangladesh,76.4891,6.0833,6.4151,0.3318,11,4.5269,144,11,T20I Only,5.2789,6.8965
+6,Logan van Beek,Netherlands,75.5628,6.3333,6.5909,0.2576,10,2.3366,126,6,T20I Only,5.0871,7.1752
+7,Salman Mirza,Pakistan,74.3629,6.4500,6.6383,0.1883,21,2.8420,320,15,T20I Only,6.4708,8.5179
+8,Imad Wasim,Pakistan,73.2106,6.1810,5.9512,-0.2298,15,3.4369,232,14,T20I Only,4.6817,6.1118
+9,Haider Ali,United Arab Emirates,72.7484,6.2802,6.3333,0.0532,14,1.8061,257,12,T20I Only,5.1738,6.9521
+10,George Dockrell,Ireland,71.5938,5.6591,6.0323,0.3732,8,-0.9451,176,15,T20I Only,4.7978,5.8949

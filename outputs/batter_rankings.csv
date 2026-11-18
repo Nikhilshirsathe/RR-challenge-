@@ -1,0 +1,11 @@
+rank,player_name,main_team_name,adjusted_score,pressure_runs,pressure_strike_rate,baseline_sr,sr_improvement,pressure_balls,pressure_matches,format_coverage,ci_lower,ci_upper
+1,Suryakumar Yadav,Mumbai Indians,88.0994,775.0000,195.7071,166.2921,29.4149,396,29,Both,173.7951,207.7558
+2,Naman Dhir,Mumbai Indians,85.2017,346.0000,204.7337,168.4211,36.3127,169,21,Both,163.9221,198.5774
+3,Babar Azam,Pakistan,83.3980,141.0000,216.9231,133.1922,83.7309,65,7,T20I Only,196.1790,319.2462
+4,Fakhar Zaman,Pakistan,81.4772,165.0000,214.2857,131.4021,82.8836,77,9,T20I Only,205.8981,312.4923
+5,Jos Buttler,Rajasthan Royals,81.0152,268.0000,214.4000,155.3906,59.0094,125,12,Both,164.4366,217.6250
+6,Tim David,Mumbai Indians,80.7282,891.0000,189.9787,177.6509,12.3278,469,50,Both,182.1062,208.0289
+7,Shashank Singh,Punjab Kings,80.4939,526.0000,178.9116,161.6071,17.3044,294,28,IPL Only,162.7971,199.7611
+8,Namboori Tilak Varma,Mumbai Indians,79.6018,966.0000,183.3017,142.9821,40.3196,527,49,Both,175.1662,195.1092
+9,Heinrich Klaasen,Sunrisers Hyderabad,78.9600,632.0000,180.5714,166.7608,13.8107,350,31,Both,172.5812,204.2368
+10,Rinku Singh,Kolkata Knight Riders,78.9222,845.0000,182.5054,152.4922,30.0132,463,49,Both,154.7573,179.3656

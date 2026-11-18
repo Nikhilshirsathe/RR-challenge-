@@ -1,0 +1,48 @@
+{
+  "data_summary": {
+    "total_matches": 867,
+    "total_deliveries": 200961,
+    "total_legal_balls": 193251,
+    "pressure_deliveries": 0,
+    "total_players_batting": 888,
+    "total_players_bowling": 647,
+    "ipl_matches": 397,
+    "t20i_matches": 470,
+    "ipl_deliveries": 94646,
+    "t20i_deliveries": 106315
+  },
+  "top10_batters": [
+    "Suryakumar Yadav",
+    "Naman Dhir",
+    "Babar Azam",
+    "Fakhar Zaman",
+    "Jos Buttler",
+    "Tim David",
+    "Shashank Singh",
+    "Namboori Tilak Varma",
+    "Heinrich Klaasen",
+    "Rinku Singh"
+  ],
+  "top10_bowlers": [
+    "Sufiyan Muqeem",
+    "Ahmed Daniyal",
+    "Arafat Minhas",
+    "Ashton Agar",
+    "Mosaddek Hossain",
+    "Logan van Beek",
+    "Salman Mirza",
+    "Imad Wasim",
+    "Haider Ali",
+    "George Dockrell"
+  ],
+  "batter_key_stats": {
+    "avg_adjusted_score": 81.79,
+    "avg_pressure_sr": 196.13,
+    "avg_sr_improvement": 40.51
+  },
+  "bowler_key_stats": {
+    "avg_adjusted_score": 77.317,
+    "avg_pressure_economy": 5.79,
+    "avg_economy_improvement": 0.11
+  }
+}
